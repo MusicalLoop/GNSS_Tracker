@@ -18,8 +18,8 @@ wifi_helper.py      ← Pico 2W WiFi connect helper
 
 | Signal        | Pico GPIO |
 |---------------|-----------|
-| GNSS TX→RX    | GP5       |
-| GNSS RX←TX    | GP4       |
+| GNSS TX→RX    | GP0       |
+| GNSS RX←TX    | GP1       |
 | OLED SDA      | GP8       |
 | OLED SCL      | GP9       |
 | Button A      | GP10      |
