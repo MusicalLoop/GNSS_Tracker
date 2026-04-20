@@ -11,8 +11,8 @@ CONFIG_FILE = "config.json"
 DEFAULTS = {
     # GNSS
     "gnss_uart_id":     0,
-    "gnss_tx_pin":      12,
-    "gnss_rx_pin":      13,
+    "gnss_tx_pin":      0,
+    "gnss_rx_pin":      1,
     "gnss_baudrate":    9600,
     "gnss_timeout_s":   5,
 
